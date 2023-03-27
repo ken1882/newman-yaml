@@ -1,0 +1,1 @@
+Run postman/newman collection but in yaml to fit k8s style
